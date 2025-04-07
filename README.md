@@ -26,7 +26,7 @@ Segment customers into groups to improve marketing strategy by understanding cus
 ## 📌 Results
 
 ### 📉 Elbow Method
-![Elbow Graph](elbow_graph.png)
+![Elbow Graph](Elbow%20graph.png)
 
 ### 📊 Cluster Segmentation
 ![Customer Segments](cluster_plot.png)
